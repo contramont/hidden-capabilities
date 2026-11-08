@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+title: "AI Models Can Provably Hide Arbitrary Capabilities"
+type: software
+repository-code: "https://github.com/contramont/hidden-capabilities"
+url: "https://openreview.net/forum?id=loKoVJwH5Y"
+authors:
+  - given-names: Andis
+    family-names: Draguns
+    affiliation: "Contramont Research & IMCS UL"
+  - given-names: Sumeet Ramesh
+    family-names: Motwani
+    affiliation: "University of Oxford"
+  - given-names: Raymond
+    family-names: Douglas
+    affiliation: "ACS Research"
+  - given-names: Christian
+    family-names: Schroeder de Witt
+    affiliation: "University of Oxford"
+preferred-citation:
+  type: conference-paper
+  title: "AI Models Can Provably Hide Arbitrary Capabilities"
+  authors:
+    - given-names: Andis
+      family-names: Draguns
+    - given-names: Sumeet Ramesh
+      family-names: Motwani
+    - given-names: Raymond
+      family-names: Douglas
+    - given-names: Christian
+      family-names: Schroeder de Witt
+  collection-title: "The Fortieth Annual Conference on Neural Information Processing Systems"
+  conference:
+    name: "NeurIPS 2026"
+  year: 2026
+  url: "https://openreview.net/forum?id=loKoVJwH5Y"
