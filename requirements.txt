@@ -1,2 +1,0 @@
-reifier
-torch>=2.8
