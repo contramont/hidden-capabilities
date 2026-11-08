@@ -14,13 +14,12 @@ python demo.py
 ## Citation
 
 ```bibtex
-@misc{draguns2026aimodelsprovablyhide,
-  title         = {{AI} Models Can Provably Hide Arbitrary Capabilities},
-  author        = {Draguns, Andis and Motwani, Sumeet Ramesh and Douglas, Raymond and {Schroeder de Witt}, Christian},
-  year          = {2026},
-  eprint        = {2610.13928},
-  archivePrefix = {arXiv},
-  url           = {https://arxiv.org/abs/2610.13928}
+@inproceedings{draguns2026aimodelsprovablyhide,
+  title     = {{AI} Models Can Provably Hide Arbitrary Capabilities},
+  author    = {Draguns, Andis and Motwani, Sumeet Ramesh and Douglas, Raymond and {Schroeder de Witt}, Christian},
+  booktitle = {The Fortieth Annual Conference on Neural Information Processing Systems},
+  year      = {2026},
+  url       = {https://openreview.net/forum?id=loKoVJwH5Y}
 }
 ```
 
